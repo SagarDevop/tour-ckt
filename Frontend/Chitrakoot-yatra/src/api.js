@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://chirtakoot-tour-guide.onrender.com", 
+  baseURL: "https://tour-ckt.onrender.com", 
   withCredentials: true, 
 });
 
